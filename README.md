@@ -1,6 +1,7 @@
 
 ================================================
-#Andi sucipto
+#Cara Menginstall Linux Ubuntu di Virtual Box 
+================================================
 Hi! sahabat , disini saya ingin memuat salah satu artikel yang berupa pengalaman saya bagaimana 
 cara untuk menginstall Virtual Machine dengan menggunakan aplikasi VirtualBox.
 
